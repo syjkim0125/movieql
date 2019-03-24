@@ -1,2 +1,2 @@
-# test
-test with graphQL yoga
+# movieql
+movie API with graphQL yoga
